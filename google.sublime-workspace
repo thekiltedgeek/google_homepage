@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
 				"al",
 				"text-align"
 			],
@@ -31,7 +39,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 229,
+				"buffer_size": 393,
 				"line_ending": "Unix",
 				"name": "<!DOCTYPE html>"
 			}
@@ -40,7 +48,7 @@
 			"file": "css/google.css",
 			"settings":
 			{
-				"buffer_size": 84,
+				"buffer_size": 223,
 				"line_ending": "Unix"
 			}
 		}
@@ -116,15 +124,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 229,
+						"buffer_size": 393,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								116,
-								116
+								201,
+								201
 							]
 						],
 						"settings":
@@ -143,15 +151,15 @@
 					"file": "css/google.css",
 					"settings":
 					{
-						"buffer_size": 84,
+						"buffer_size": 223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								82,
-								82
+								38,
+								38
 							]
 						],
 						"settings":

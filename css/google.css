@@ -1,6 +1,18 @@
-.logo{
+a{
+	font-family: Arial;
+	font-size: 10pt;
+	text-decoration: none;
+	padding: 10px;
+}
+
+a:hover{text-decoration: underline;}
+
+#menuBar{
+	height: 33;
+	text-align: right;
+}
+
+#logo{
 	vertical-align: center;
 	text-align: center;
-	height: 92px;
-	width: 272px;
 }
