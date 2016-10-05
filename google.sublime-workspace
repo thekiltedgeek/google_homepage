@@ -5,7 +5,39 @@
 		[
 			[
 				"font",
-				"font-size"
+				"font-family"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"r",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"lis",
+				"list-style-type"
 			],
 			[
 				"te",
@@ -26,10 +58,6 @@
 			[
 				"bor",
 				"border-radius"
-			],
-			[
-				"in",
-				"input	Tag"
 			]
 		]
 	},
@@ -39,7 +67,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 393,
+				"buffer_size": 640,
 				"line_ending": "Unix",
 				"name": "<!DOCTYPE html>"
 			}
@@ -48,7 +76,7 @@
 			"file": "css/google.css",
 			"settings":
 			{
-				"buffer_size": 223,
+				"buffer_size": 481,
 				"line_ending": "Unix"
 			}
 		}
@@ -124,21 +152,22 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 393,
+						"buffer_size": 640,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								201,
-								201
+								549,
+								549
 							]
 						],
 						"settings":
 						{
 							"auto_name": "<!DOCTYPE html>",
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -151,15 +180,15 @@
 					"file": "css/google.css",
 					"settings":
 					{
-						"buffer_size": 223,
+						"buffer_size": 481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								38,
-								38
+								284,
+								284
 							]
 						],
 						"settings":
@@ -167,7 +196,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
